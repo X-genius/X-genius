@@ -6,7 +6,7 @@
 ---
 
 #### 👨‍💻 **About Me**  
-I am a passionate Software Engineer with extensive experience in developing micro front-ends using React, TypeScript, GraphQL, and Redux Thunk. I have led the development of impactful features, Driving efficiency and improving user satisfaction. My background spans web applications platforms, and I am committed to delivering high-quality, scalable solutions.
+I am a passionate Software Engineer with extensive experience in developing micro front-ends using React, TypeScript, GraphQL and Redux Thunk. I have led the development of impactful features, Driving efficiency and improving user satisfaction. My background spans web applications platforms and I am committed to delivering high-quality and scalable solutions.
 
 ---
 
@@ -40,16 +40,6 @@ I am a passionate Software Engineer with extensive experience in developing micr
 *Apr 2021 – Jun 2021 | Bengaluru, India*  
 - Created a meeting scheduler with Zoom, Google Meet, and Microsoft Teams integration, enhancing efficiency by 22%.
 - Built full-stack solutions using PostgreSQL and NestJS, improving system performance.
-
----
-
-#### 🛠️ **Projects**
-
-**[Chat Gemini (AI Model Website)](https://chat-gemini-bot.netlify.app/)**  
-- Deployed AI-driven systems using React and Google Cloud, serving 15+ users with 94% deployment efficiency.
-
-**[Crypto Stealer (Cryptocurrency Website)](https://crypto-stealer.netlify.app/)**  
-- Provided real-time cryptocurrency data using React, Firebase, and CoinGecko APIs, improving data retrieval speed by 87%.
 
 ---
 
