@@ -6,7 +6,7 @@
 ---
 
 #### 👨‍💻 **About Me**  
-I am a passionate Software Engineer with extensive experience in developing micro front-ends using React, TypeScript, GraphQL, and Redux Thunk. I have led the development of impactful features, including German localization and RBAC, driving efficiency and improving user satisfaction. My background spans web applications, satellite services, and meeting scheduler platforms, and I am committed to delivering high-quality, scalable solutions.
+I am a passionate Software Engineer with extensive experience in developing micro front-ends using React, TypeScript, GraphQL, and Redux Thunk. I have led the development of impactful features, Driving efficiency and improving user satisfaction. My background spans web applications platforms, and I am committed to delivering high-quality, scalable solutions.
 
 ---
 
