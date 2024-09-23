@@ -29,16 +29,16 @@ I am a passionate Software Engineer with extensive experience in developing micr
 **Stanza Living | Software Development Engineer 1**  
 *Jun 2022 – Sep 2022 | Gurugram, India*  
 - Developed a platform for 10,000+ users, integrating questionnaire and amenities features.
-- Reduced development time by 23% through reusable code, and fixed 25+ production bugs, optimizing performance.
+- Reduced development time by 23% through reusable code and fixed 25+ production bugs, optimizing performance.
 
 **Hughes Systique Corporation | Associate Software Engineer**  
 *Aug 2021 – Jun 2022 | Gurugram, India*  
-- Developed a satellite network services product for military applications, using HTML5, Angular, and jQuery.
-- Managed back-end operations with Java, Oracle DB, and Grails, resolving over 45 bugs to improve performance.
+- Developed a satellite network services product for military applications using HTML5, Angular and jQuery.
+- Managed back-end operations with Java, Oracle DB and Groovy and Grails, resolving over 45 bugs to improve performance.
 
 **Supercharge | Software Development Executive (Intern)**  
 *Apr 2021 – Jun 2021 | Bengaluru, India*  
-- Created a meeting scheduler with Zoom, Google Meet, and Microsoft Teams integration, enhancing efficiency by 22%.
+- Created a meeting scheduler with Zoom, Google Meet and Microsoft Teams integration, enhancing efficiency by 22%.
 - Built full-stack solutions using PostgreSQL and NestJS, improving system performance.
 
 ---
